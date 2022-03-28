@@ -1,0 +1,1 @@
+RDEPENDS:${PN} = "cuda-toolkit cuda-demo-suite cuda-cudart"
